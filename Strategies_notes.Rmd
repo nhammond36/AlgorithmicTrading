@@ -43,6 +43,7 @@ Cristina Q
 # Derivatives MARKETS Robert L. McDonald
 PART ONE; Insurance. hedgin, and simple strategies
 ## chapter 2 Introduction to forwards and options
+2.1 Forward contracts.Set today the terms at which you buy or sell an asset at a specific time in the future
 ## Chapter 3 Insurance, collars, and other strategies
 3.1 Basic insurance strategies
 Infinite ways to combine options to create different payofss
@@ -68,11 +69,31 @@ The present value of buying the index in the future is the PV of the forward pri
 If uses options the present value of the cost is the net option premium for buying the calland selling the put, call(K,T)-put(K,T)  + PV(k)
 \begin{align*}
 PV(F_{0,T})=[call(K,T)-put(K,Y)]  + PV(k)
-
 call(K<T)-put(K,T)=PV(F_{0,T}=K)
 \end{align*}
-3.3 Speculating on volatility
+
+3.3 Spreads and collars
+strategies using two or more options
+An option spread is a position consisting of only calls or puts, some are purchased and some written
+\emph{Bull and bears spreads} or vertical spreads
+Bull spread. Buy a call and buy sell identical call with higher strike price :
+Buy low strike call sell an high strike call OR 
+Buy low strike put sell an high strike put 
+
+Bear spread, the opposite of bull spread
+\emph{Box spreads}
+Use options to create a synthetic long forward at one price  and a synthetic short forward at a different price
+\emph{Ratio spreads}
+Buy m calls at one price and  sell n calls at different strike price. Same time to maturity, same underlyiing asset
+\emph{Collars}
+purchase put, sell call with a higher strike price, Same expiration date, same underlying asset
+
+
+3.4 Speculating on volatility
 \emph{Straddles}
+Buy a call and a put at same strike price and time to expiration
+A bet that volatility will be high
+\emph{Strangle}
 \emph{Butterfly spreads}
 \emph{Assymmetric Butterfly spreads}
 
