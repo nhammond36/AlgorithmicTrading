@@ -44,6 +44,19 @@ Cristina Q
 PART ONE; Insurance. hedgin, and simple strategies
 ## chapter 2 Introduction to forwards and options
 2.1 Forward contracts.Set today the terms at which you buy or sell an asset at a specific time in the future
+A \tesxtbf{forward contract} sets tpday the terms at which you buy or sell an asset or commodity (the underlying asset) at a specific time in the future. (Deriv p21)
+The time at which the contract settles is the expiration date
+Long position:makes money when price goes up
+Long position:makes money when price goes down
+
+Payoff to long position: Spot price at expiration - forward price
+Payoff to short position: Forward price - spot price at expiration
+
+Comparing a forward out outright purchase:
+Both positions give ownership of the example of an S&P index after  months: We can compare them fairly if we equate the amounts initially invested and then account for the interest earned over the six months -- in two equivalent ways:
+1. Invest $\$1000$ in zero coupon bonds (e.g. Tbills) along with the forward contract in which case each position initially cost $\$1000$ at time 0
+2. Borrow to buy the physical S$\&$R index, in which case each position initially costs $\$0$ at time 0.
+
 ## Chapter 3 Insurance, collars, and other strategies
 3.1 Basic insurance strategies
 Infinite ways to combine options to create different payofss
@@ -69,14 +82,22 @@ The present value of buying the index in the future is the PV of the forward pri
 If uses options the present value of the cost is the net option premium for buying the calland selling the put, call(K,T)-put(K,T)  + PV(k)
 \begin{align*}
 PV(F_{0,T})=[call(K,T)-put(K,Y)]  + PV(k)
-call(K<T)-put(K,T)=PV(F_{0,T}=K)
+call(K<T)-put(K,T)=PV(F_{0,T}-K)
 \end{align*}
+
+\textbf{Synthetic forwards}
+Mimic a long forward position on an asset: buy a call, sell a putoptions with sme strike price and time to expiration. At expiration, obliged to buy the asset just like a forward
+
+The synthetic long forward differed from actual forward:
+1. The forward contract has 0 premium, while the synthetic forwardrequires we pay the net option premium
+2. With  the forward contract, pay the forward price, with the synthetic forward pay the strike price.
+
 
 3.3 Spreads and collars
 strategies using two or more options
 An option spread is a position consisting of only calls or puts, some are purchased and some written
 \emph{Bull and bears spreads} or vertical spreads
-Bull spread. Buy a call and buy sell identical call with higher strike price :
+Bull spread. Buy a call and  sell identical call with higher strike price :
 Buy low strike call sell an high strike call OR 
 Buy low strike put sell an high strike put 
 
