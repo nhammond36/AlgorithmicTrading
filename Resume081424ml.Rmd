@@ -1,0 +1,144 @@
+---
+title: "Nancy Hammond PhD"
+author: ""
+#date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document: default
+---
+Laura https://greatresumesfast.com/executive-resume-samples/
+
+
+**Nancy Hammond, Ph.D.**
+Chicago, IL 60661 | 312.709.5328 | nahammond@uchicago.edu | GitHub: @nhammond36 | LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nahammondphd) | Portfolio: [Personal Website](https://sites.google.com/site/nahammond/home/)
+
+**ECONOMIST | QUANTITATIVE RESEARCH**
+- University of Chicago PhD Economist | Macrofinance | Advanced quantitative methods | Econometrics | Financial mathematics
+Experienced economist, quantitative researcher, macroeconomic and financial econometrics , 
+risk management, monetary policy, with over 15 years of industry experience. Desire quantitative positions in financial exchanges, hedge or trading firms
+
+
+**EXPERTISE:**
+
+•	Quantitative researcher 
+•	fixed income models, financial mathematics, 
+•	risk management, 
+•	deep learning, machine learning-AI, 
+•	Monetary policy and repurchase markets. 
+•	C++, Matlab, Python, R, Stata.
+•	Excellent communication skills (written, oral, visualization)
+•	Algorithm development
+•	Yield curve models, pricing US Government Bonds or Treasury Bond basis.
+•	Expertise STIR products - Fed Funds rate. SOFR. Repo rates TGCR, BGCR
+•	Research, test, and prototype new algorithmic ideas
+•	Implementation of ideas to full-scale production trading.
+•	Quantitative modelling 
+•	Strong programming skills, Python, Java or C++
+
+
+• Statistics and probability                  • Risk mitigation model development & validation 
+• Financial mathematics, stochastic calculus  • Credit, operational risk, VaR, liquidity risk
+• Yield curve, fixed income models            • Market risk, counterparty credit risk
+• Time series anakysis                        • Python, R, Matlab, C++, Stata, Python, GitHub,LaTeX   
+• Volatilitty analysis                        • Excellent communication skills (written, oral)
+• Deep learning, AI                           • Visualization                              
+• Monetary policy                             • Repurchase markets                     
+                                              
+                   
+
+
+**ACHIEVEMENTS:**
+- Multifactor estimates US Treasury security risk premia, latent and macroeconomic factors
+- Volatility analysis of Fed funds and repurhase market rate response to FOMC policy changes
+- Operational risk loss distributon (LDA) model, Matlab code, documentation
+- Stevanovich Center for Financial Mathematics, University of Chicago, 2018 SoFiE Certificate in Machine Learning and Finance
+
+
+**PROFESSIONAL EXPERIENCE**
+
+**Economist/Founder, qaEconomics - Financial and Economic Consulting**
+January 2020 - Present
+- Term structure of US Treasury security risk premia using PCA with latent and macroeconomic factors.
+- Volatility analysis of overnight policy and wholesale money market rate response to FOMC policy changes.
+- Management tools for counterparty risk, market-to-market, margin, and stress testing.
+- Mistorical VaR, Monte Carlo VaR, Multi-Factor Risk Models, Stressed VaR, and Liquidity Risk models.
+- United Arab Emirates macroeconomic.
+
+**Lecturer, Corporate Finance, DePaul University - Driehaus School of Business**
+January 2020 - July 2022
+- Corporate finance, models, risk assessment, return on investments, cost of capital, capital structure, shadow banking and the relationship between interest rates and the economy.
+
+**Managing Consultant, Risk Management Advisory, KPMG**
+September 2016 - July 2017
+- Credit risk and operational risk models for global systemically important banks (G-SIBs).
+- Equity margin loss models and prepayment models for mortgage securities.
+- Best practices for operational risk mitigation.
+
+**Senior Quantitative Researcher, Risk, Protiviti**
+March 2013 - September 2015
+- Capital adequacy and liquidity assessments for G-SIB clients for CCAR reports.
+- Operational risk modeling and stress tests for Federal Reserve risk scenarios.
+- Poisson regression model for loss frequencies in operational risk LDA models.
+
+**Managing Consultant, Energy Efficiency, Navigant - Chicago, IL**
+January 2011 - November 2012
+- Strategies, models, and analyses to optimize energy consumption and demand.
+- Analysis of response to energy efficiency equipment and energy pricing and incentives.
+
+**Economist, RCF Economic and Financial Consulting**
+April 2006 - May 2010
+- Strategy, trends, and sector-specific analysis for clients’ decision-making.
+- Loss Distribution Approach (LDA) operational risk models for G-SIBs
+- Vector autoregression and error correction analyses.
+- White paper, price and quantity indices.
+
+**Economist, Argonne National Laboratory**
+January 2001 - March 2006
+- Stochastic frontier models of energy use cost functions for corn product producers to estimate the  Energy Performance Indicator (EPI) of the Environmental Protection Agency’s (EPA) Energy Star program.
+- Researched energy use data from various sources and visualized results to communicate insights.
+
+**Assistant Professor, Northwestern University**
+September 2000 - September 2004
+- Lecturer: international finance, money/banking, economic growth, and demography.
+- Mentored students
+- Completed University of Chicago Center for Teaching and Learning (CCTL) innovative teaching methods.
+
+
+**EDUCATION**
+
+- Ph.D. in Economics, University of Chicago - Chicago, IL (March 2016)
+- University of Chicago Booth Asset Pricing, Empirical Finance, Stochastic Calculus
+- Stevanovich Center for Financial Mathematics, University of Chicago, 2018 SoFiE Certificate in Machine Learning and Finance
+
+**ONLINE COURSES**
+- Coursera: [The Global Financial Crisis, 5/15/2017](https://coursera.org/verify/X7K8356TEGMU)
+- Coursera: [Neural Networks and Deep Learning, 9/12/2021](https://coursera.org/verify/R9K2YJY7HTMY)
+- Coursera: [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+12/24/2022] (https://coursera.org/verify/5PNH9DALTUNB)
+- Coursera: Deep Learning Specialization. https://www.coursera.org/specializations/deep-learning
+            Completing this specialization
+- Coursers: Guided Tour of Machine Learning in Finance. completing this specialization       
+            https://www.coursera.org/learn/guided-tour-machine-learning-finance/
+- Coursera: Python and Statistics for Financial Analysis. completing this   c  
+            course.https://www.coursera.org/learn/python-statistics-financial-analysis/
+- Coursera: Object-Oriented Data Structures in C++ (on going)
+
+
+**WORKING PAPERS**
+- Factor and affine models of the term structure of Treasury securities risk premiums.
+- Volatility response of overnight funding rates to FOMC policy.
+- Coordinated monetary and fiscal policy under different transaction technologies.
+ The impact of active monetary policy and state contingent net bond sales.
+- Dissertation: Education and reduced mortality in pre-industrial Britain.
+
+**AFFILIATIONS**
+- American Economic Association
+- American Finance Association
+- Old St Pat’s Immigration Committee
+- WILD: Women in Listed Derivatives
+
+**LANGUAGES**
+- Arabic: Limited working
+- French: Professional working
+- Russian: Limited working
+- Spanish: Professional working
